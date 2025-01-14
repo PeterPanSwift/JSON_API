@@ -1,0 +1,63 @@
+{
+  "tableTennis": {
+    "equipment": {
+      "ball": {
+        "material": "塑膠",
+        "color": "白色或橙色",
+        "diameter": "40毫米",
+        "weight": "2.7公克"
+      },
+      "racket": {
+        "blade": {
+          "material": "木材",
+          "layers": "5-7層"
+        },
+        "rubber": {
+          "type": "反膠、正膠或顆粒膠",
+          "color": "紅色和黑色"
+        }
+      },
+      "table": {
+        "dimensions": {
+          "length": "274公分",
+          "width": "152.5公分",
+          "height": "76公分"
+        },
+        "surfaceColor": "深綠色或藍色",
+        "net": {
+          "height": "15.25公分",
+          "material": "尼龍或棉"
+        }
+      }
+    },
+    "rules": {
+      "scoring": {
+        "pointsToWin": "11分",
+        "deuceCondition": "雙方均為10分時需超過對手2分獲勝"
+      },
+      "serve": {
+        "length": "不少於16公分",
+        "visibility": "必須讓對手清楚看到球的拋起和擊球過程"
+      },
+      "matchFormat": {
+        "sets": "最佳五局或七局",
+        "changeSide": "每局結束後雙方交換場地"
+      }
+    },
+    "players": {
+      "numberOfPlayers": "單打或雙打",
+      "skills": {
+        "types": [
+          "削球",
+          "拉球",
+          "快攻",
+          "弧圈球"
+        ]
+      }
+    },
+    "history": {
+      "origin": "19世紀末的英國",
+      "firstOlympics": "1988年首度成為奧運比賽項目"
+    }
+  }
+}
